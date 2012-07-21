@@ -41,6 +41,14 @@ below my process for deciding on components.
 
 ### Productivity: Times of key presses
 
+I figured I'd use a keylogger but not log the keys. Some references
+
+* [Teensy keylogger](http://www.irongeek.com/i.php?page=security/homemade-hardware-keylogger-phukd)
+* [Arduino USB keyboard kluge](http://www.practicalarduino.com/projects/virtual-usb-keyboard), which is
+    also my plan for my stenotype
+* [USB keyboard firmware](http://hunt.net.nz/users/darran/) might be easier on Arduino Uno rather than
+    Mega because someone already compiled the firmware. (I was having this trouble with the stenotype.)
+
 ### Well-being: Magnitudes and times of keyboard movements
 
 I looked at [this guide](http://www.sparkfun.com/tutorials/167/) and thought that
