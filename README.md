@@ -43,6 +43,14 @@ below my process for deciding on components.
 
 ### Well-being: Magnitudes and times of keyboard movements
 
-http://www.sparkfun.com/tutorials/167/
+I looked at [this guide](http://www.sparkfun.com/tutorials/167/) and thought that
+one of these would make sense.
+
+* http://www.sparkfun.com/products/9269
+* http://www.sparkfun.com/products/9652
+* http://www.sparkfun.com/products/9801
+* http://www.sparkfun.com/products/10121
+
+I could just get all of them and decide later....
 
 ### Intervention: Keyboard weight
