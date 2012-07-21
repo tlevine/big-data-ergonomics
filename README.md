@@ -62,3 +62,10 @@ one of these would make sense.
 I could just get all of them and decide later....
 
 ### Intervention: Keyboard weight
+
+## Other components
+
+I need a keyboard. For this proof of concept, I use the one that I already had, but
+if I were to deploy this across a company or something, I would choose a keyboard
+that I thought people would actually use. Alternatively, I could chose several keyboards
+and consider keyboard type to be an intervention.
