@@ -33,3 +33,16 @@ different).
 **Well-being**: Magnitudes and times of keyboard movements
 
 **Intervention**: Keyboard weight
+
+## Measurement tools
+
+I assembled an Arduino with sensors for each of the three measures. I document
+below my process for deciding on components.
+
+### Productivity: Times of key presses
+
+### Well-being: Magnitudes and times of keyboard movements
+
+http://www.sparkfun.com/tutorials/167/
+
+### Intervention: Keyboard weight
