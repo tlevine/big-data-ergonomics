@@ -28,8 +28,8 @@ in a non-aggregated way with "machine-learning" techniques rather being aggregat
 for traditional "statistics" (not that machine learning and statistics are
 different).
 
-*Productivity*: Times of key presses
+**Productivity**: Times of key presses
 
-*Well-being*: 
+**Well-being**: Magnitudes and times of keyboard movements
 
-*Intervention*: Keyboard weight
+**Intervention**: Keyboard weight
